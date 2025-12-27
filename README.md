@@ -1,24 +1,22 @@
-- 👋 Hi, I’m Alice!
-- 👀 I’m interested in :
+👋 Hi, I’m Alice (Alicia Basilio Velázquez)
 
-Artificial Inteligence
+I build data + AI systems and the cloud infrastructure to ship them reliably.
 
-Blockchain Technology
+**What I work on**
+- AI / ML engineering (time-series, NLP, automation)
+- Data engineering (ETL pipelines, streaming, analytics)
+- Cloud & DevOps (AWS, containers, CI/CD, observability)
+- Blockchain & cryptography (research + side projects)
 
-Data analysis 
+**Current focus**
+- Production-grade pipelines on AWS (serverless + container platforms)
+- MLOps and deployment patterns for real systems
+- Security-minded architecture (IAM, networking, governance)
 
-I am sure that Decentilizaded Ledger Tecnologies will change the world as we know it! please contact me if you think the same.
+**Collaboration**
+I’m open to collaborations on:
+- data/ML platforms
+- automation & DevOps tooling
+- applied cryptography / ZK / blockchain analytics
 
-- 🌱 I’m currently learning .
-
-To delevopt DApps in Solidity and  Plutus.
-
-
-- 💞️ I’m looking to collaborate on ...
-
-Distributed Ledger Technologies! 
-
-
-- 📫 How to reach me ...
-
-at ----> aliciabasilo.ab@gmail.com 
+📫 Contact: **aliciabasilo.ab@gmail.com**
